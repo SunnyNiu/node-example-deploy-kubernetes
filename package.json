@@ -1,0 +1,12 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "Node Example for Docker Exercise",
+  "main": "index.js",
+  "author": "Sunny",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
