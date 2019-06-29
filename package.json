@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "yarn start && sleep 5 && yarn jest"
+    "test": "yarn jest"
   }
 }
