@@ -11,6 +11,7 @@
     "jest": "^24.8.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "yarn jest"
   }
 }
