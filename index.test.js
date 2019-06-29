@@ -5,7 +5,7 @@ describe('randomTest', ()=> {
             expect(body).toEqual("Hello World");
         })
     });
-    it('case1', ()=>{
+    it('case2', ()=>{
         expect(true).toEqual(true);
     });
 })
